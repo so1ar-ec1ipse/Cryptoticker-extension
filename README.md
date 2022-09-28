@@ -1,7 +1,7 @@
 # CryptoTicker by Coinigy
 Chrome & Firefox extension for live bitcoin and altcoin prices and market data, using the Coinigy API.
 
-![](http://i.imgur.com/Ho6XFHv.png)
+![](./Ho6XFHv.png)
 
 This extension requires a Coinigy.com account. You can register for a free 30 day trial at https://www.coinigy.com/auth/signup.
 
@@ -25,6 +25,4 @@ I know there are some bugs, but please feel free to send any bug reports or sugg
 
 To install go to Addons->Extensions->Install Add-On From File in your Firefox browser, and open the @cryptoticker-firefox-0.0.1.xpi file. The addon will be available after browser restart.
 
-Enjoy!
-
--Cory cory.savit@gmail.com
+Hope your success!
